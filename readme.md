@@ -2,13 +2,13 @@ asset-generator
 ===============
 
 This is a cheap asset resizer for Android and iOS. It takes an image in @3x or xxhdpi size and resize it:
-* Android: mdpi, ldpi, hdpi, xhdpi, xxhdpi
+* Android: mdpi, ldpi, hdpi, xhdpi, xxhdpi, xxxhdpi
 * iOS: @1x, @2x, @3x
 
 ## Installation
 
 ```
-npm install asset-generator -g
+npm install https://github.com/ubidreams/asset-generator -g
 ```
 
 ## Usage
